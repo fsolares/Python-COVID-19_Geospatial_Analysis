@@ -1,4 +1,4 @@
-# COVID-19 Geospatial_Analysis
+# COVID-19 Geospatial Analysis
 
 This is a project using ‘Python’ language developed by Felipe Solares da Silva to build interactive maps to analyze Covid-19 occurences in Brazilian territory in 2020.
 
