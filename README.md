@@ -4,7 +4,8 @@ This is a project using ‘Python’ language developed by Felipe Solares da Sil
 
 ## Important Sources
 
-For this project, we gather information from Brazilian Health Ministry Site (https://covid.saude.gov.br/). The site compiles all reported information from all brazilian states such as: incidence, confirmed cases, confirmed deaths and mortality. They provide a CSV file, daily updated, since the first occurrence. After lots of cleaning and transforming, we structure the data and store it into a new CSV file (that you can find in this repository!) for our futher analysis.
+For this project, we gather information from Brazilian Health Ministry Site (https://covid.saude.gov.br/). The site compiles all reported information from all brazilian states such as: incidence, confirmed cases, confirmed deaths and mortality. 
+They provide a CSV file, daily updated, since the first COVID occurrence. After lots of cleaning and transforming, we structure the data and store it into a new CSV file (that you can find in this repository!) for our futher analysis.
 
 ## Project References
 
