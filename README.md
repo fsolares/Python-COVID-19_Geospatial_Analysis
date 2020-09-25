@@ -1,4 +1,5 @@
 # COVID-19 Geospatial Analysis
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fsolares/Python-COVID-19_Geospatial_Analysis/master)
 
 This is a project using ‘Python’ language developed by Felipe Solares da Silva to build interactive maps to analyze Covid-19 occurences in Brazilian territory in 2020.
 
